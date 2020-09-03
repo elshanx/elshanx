@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=elshanx&theme=gotham&'/>
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=elshanx&theme=gotham&hide=css,html'/>
 
 ![Elshan's github stats](https://github-readme-stats.vercel.app/api?username=elshanx&count_private=true&show_icons=true&theme=gotham)
 
