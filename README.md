@@ -21,5 +21,3 @@
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=elshanx&theme=gotham'/>
 
 ![Elshan's github stats](https://github-readme-stats.vercel.app/api?username=elshanx&count_private=true&show_icons=true&theme=gotham)
-
-<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" align="left">
