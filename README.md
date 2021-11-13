@@ -1,4 +1,4 @@
-# <center>Feel free to check out my [gists](https://gist.github.com/elshanx) as well</center>
+# <p align="center">Feel free to check out my [gists](https://gist.github.com/elshanx) as well</p>
 
 <br/>
 
@@ -13,11 +13,3 @@
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150">
 </p>
-
-<br />
-
----
-
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=elshanx&theme=gotham'/>
-
-![Elshan's github stats](https://github-readme-stats.vercel.app/api?username=elshanx&count_private=true&show_icons=true&theme=gotham)
